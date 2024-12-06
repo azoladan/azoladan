@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @azoladan
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning the basics of web development 
+- 💞️ I’m looking to collaborate with beginners who have recently joined the space
+- 📫 How to reach me: Azoladan7@gmail.com
+- ⚡ Fun fact: I am totally new to the tech space. 
